@@ -1,0 +1,10 @@
+.container{
+    background-color: rgb(202, 195, 218);
+    margin: 5px;
+    color: black;
+    width: 150px;
+}
+
+.imagen {
+    width: 120px;
+}

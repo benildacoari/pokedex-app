@@ -1,0 +1,7 @@
+.main {
+    background-color: brown;
+    /* width: x; */
+    display: flex;
+    /* justify-content: center; */
+    flex-wrap: wrap;
+}

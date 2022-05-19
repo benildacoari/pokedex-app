@@ -1,0 +1,10 @@
+.search{
+    width: 400px;
+    margin: 4px;
+}
+
+.buscador{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
